@@ -1,0 +1,40 @@
+_repo: The-pearl-lagoon_68550
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fischer, Anton Otto
+    birthdate: 1882
+    deathdate: 1962
+    gutenberg_agent_id: '8526'
+    url: http://www.gutenberg.org/2009/agents/8526
+    wikipedia: https://en.wikipedia.org/wiki/Anton_Otto_Fischer
+creator:
+  author:
+    agent_name: Nordhoff, Charles
+    birthdate: 1830
+    deathdate: 1901
+    gutenberg_agent_id: '2649'
+    url: http://www.gutenberg.org/2009/agents/2649
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Nordhoff_(journalist)
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68550'
+language: en
+pgterms:marc905: 20220715210424nordhoff
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: United States :Little, Brown and Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pearl fisheries -- Fiction'
+- !lcsh 'Oceania -- Fiction'
+- !lcsh 'Sea stories'
+- !lcc 'PS'
+- !lcsh 'Islands of the Pacific -- Fiction'
+- GITenberg
+title: The pearl lagoon
+url: http://www.gutenberg.org/ebooks/68550
