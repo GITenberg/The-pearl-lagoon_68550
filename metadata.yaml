@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '8526'
     url: http://www.gutenberg.org/2009/agents/8526
     wikipedia: https://en.wikipedia.org/wiki/Anton_Otto_Fischer
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nordhoff, Charles
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2649
     wikipedia: https://en.wikipedia.org/wiki/Charles_Nordhoff_(journalist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68550#The-pearl-lagoon
 gutenberg_issued: '2022-07-18'
 identifiers:
   gutenberg: '68550'
